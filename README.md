@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 - 🎀<!-- COMPUTER --> SCIENCE STUDENT
 - 🎁 Debugging myself from Bugs
-- ✨ Connect With me On [Instagram](https://www.instagram.com/aaadix_) & [Telegram](https://telegram.dog/aaadix_69)
+- ✨ Connect With me On [Instagram](https://www.instagram.com/_adx69) & [Telegram](https://telegram.dog/adx69)
 
