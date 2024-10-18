@@ -1,7 +1,7 @@
   
 <h1>Hi There, I'm Aditya <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm an **Computer Science Student** studying at [SRM University, KTR](https://www.srmist.edu.in/). I have a passion for programming, exploring the cosmos, and learning new technologies. Currently, I'm focused on improving my skills in computer science, with a goal of working on exciting projects and becoming a **Good** programmer.
+I'm a **Computer Science Student** studying at [SRM University, KTR](https://www.srmist.edu.in/). I have a passion for programming, exploring the cosmos, and learning new technologies. Currently, I'm focused on improving my skills in computer science, with a goal of working on exciting projects and becoming a **Good** programmer.
 
 ## Skill Set :muscle:
 
