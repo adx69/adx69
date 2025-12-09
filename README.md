@@ -1,27 +1,105 @@
-  
-<h1>Hi There, I'm Aditya <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hey+I'm+Aditya;Full+Stack+Developer;IoT+%26+AI%2FML+Explorer;Next.js+%7C+React+%7C+MongoDB;Building+Real+World+Tech+Projects" alt="Typing SVG" />
+</p>
 
-I'm a **Computer Science Student** studying at [SRM University, KTR](https://www.srmist.edu.in/). I have a passion for programming, exploring the cosmos, and learning new technologies. Currently, I'm focused on improving my skills in computer science, with a goal of working on exciting projects and becoming a **Good** programmer.
+---
 
-## Skill Set :muscle:
+## 👨‍💻 About Me
 
-These are some of the major technologies that I use or have worked on in the past:
+🎓 **CSE Core Student @ SRM University, KTR**  
 
-**Programming Languages**
+💻 **Full Stack Developer**  
+🎯 Dream: Build **impactful real-world tech products**
 
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
---|--|--|--|
+- 🚀 Building production-grade **Next.js + React dashboards**
+- 🤖 Working on **Drone-based Sapling Detection for Govt Use**
+- 🔌 Building **IoT systems using ESP8266**
+- 🧠 Learning **AI/ML foundations**
+- 🎮 Gamer + Developer combo
+
+---
+
+## 🧠 Current Tech Arsenal
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css" />
+</p>
+
+### ⚡ Frontend & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### 🗄 Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,bun,nodejs,aws,heroku" />
+</p>
+
+### 🔌 IoT & Hardware
+- ESP8266  
+- Temperature Sensors  
+- Relay Modules  
+- Smart Automation Systems  
+
+---
+
+## 🚀 Flagship Projects
+
+🚁 **Drone-based Sapling Detection System**  
+> ML + U-Net CNN + Next.js Dashboard for Government Data Analysis  
+
+💧 **IoT Hot & Cold Water Cooler System**  
+> React + ESP8266 + Live Temperature & Relay Control  
+
+🔁 **SkillSwap**  
+> Peer-to-peer skill barter platform for students  
+
+🎥 **SRM Private Omegle-like TV App**  
+> SRM Email Login + Live Video Chat  
+
+🚗 **DriveBuddy**  
+> Road accident prevention system  
+
+---
+
+## 📊 GitHub Live Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adx69&theme=tokyonight" height="170"/>
+</p>
 
 
-**Infrastructure**
+---
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
---|--|
+## 📚 Currently Learning
 
+- ✅ Full Stack Development  
+- ✅ Java + DSA  
+- ✅ MongoDB Deep Dive  
+- ✅ Python for ML  
+- ✅ AI/ML Foundations  
 
+---
 
-**Tools**
+## ⚡ Fun Zone
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
---|--|--|
-<br>
+- 😴 Loves reading & sleeping
+- 💨 Hair never stays in place
+- 🎯 Builds first, optimizes later
+- 🧑‍💻 JSX > TSX always
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adx69&style=flat-square&color=blue"/>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider following me. Big projects loading...
+</p>
