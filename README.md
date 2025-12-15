@@ -68,15 +68,6 @@
 
 ---
 
-## 📊 GitHub Live Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adx69&theme=tokyonight" height="170"/>
-</p>
-
-
----
-
 ## 📚 Currently Learning
 
 - ✅ Full Stack Development  
